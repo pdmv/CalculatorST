@@ -1,0 +1,43 @@
+D:\Testing\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+D:\Testing\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+D:\Testing\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+D:\Testing\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Testing\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+D:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csprojResolveAssemblyReference.cache
+D:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+D:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
+E:\Testing\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+E:\Testing\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+E:\Testing\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+E:\Testing\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Testing\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+E:\Testing\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+E:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+E:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+E:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+E:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+E:\Testing\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
+C:\Users\phamdominhvuong\Documents\SoftwareTesting\Calculator\CalculatorTester\bin\Debug\Data\DataForTest.csv
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\Data\DataForTest.csv
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\CalculatorTester.dll
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\CalculatorTester.pdb
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\Calculator.exe
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\Calculator.pdb
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\bin\Debug\Calculator.exe.config
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.AssemblyReference.cache
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CoreCompileInputs.cache
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\obj\Debug\CalculatorTester.csproj.CopyComplete
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\obj\Debug\CalculatorTester.dll
+C:\Users\phamdominhvuong\OneDrive\Máy tính\Calculator\CalculatorTester\obj\Debug\CalculatorTester.pdb
